@@ -1,0 +1,15 @@
+{
+  "name": "vanilla",
+  "version": "1.0.0",
+  "description": "LeetCode FE Assessment",
+  "main": "index2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "tesudesu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
